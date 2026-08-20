@@ -20,7 +20,12 @@
 ---
 
 ## 🔗 Issues 
-<!-- Vincule a issue ou o card do projeto que este PR resolve. Usa as palavras-chave do GitHub como: Closes #123, Fixes #123, Resolves #123. -->
+<!-- Vincule a issue este PR resolve. Usa as palavras-chave do GitHub como: Closes #123, Fixes #123, Resolves #123. -->
+<!-- Como usar: Closes - Usado para tarefas gerais, criação de novos recursos ou atualizações de documentação.
+                Fixes - Usado quando o PR resolve um erro, bug ou falha no código.-->
+<!-- Sintaxe: Closes#id-da-issue -->
+
+
 
 - Relacionado a #
 
@@ -28,16 +33,17 @@
 
 ## Como Isso Foi Testado?
 <!-- Descreva os testes executados para verificar suas alterações. Forneça instruções para que o revisor possa reproduzir os testes. -->
-<!-- Caso seja documentação, ignore essa parte.-->
+<!-- Caso seja documentação, apague essa parte.-->
 
 ### Testes Manuais
+<!-- Caso seja documentação, apague essa parte.-->
 1. Passo a passo para testar a alteração:
    - Navegue até `...`
    - Execute o comando `...`
    - Verifique o resultado `...`
 
 ### Testes Automatizados
-<!-- Caso seja documentação, ignore essa parte.-->
+<!-- Caso seja documentação, apague essa parte.-->
 - [ ] Testes unitários executados e aprovados.
 - [ ] Testes de integração executados e aprovados.
 
